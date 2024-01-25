@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://cateredun.github.io/sitemap.txt
